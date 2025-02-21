@@ -1,0 +1,15 @@
+
+# Ignorowanie plików systemowych
+__pycache__/
+*.log
+*.tmp
+*.swp
+.vscode/
+.idea/
+.DS_Store
+
+# Ignorowanie modeli AI (duże pliki)
+models/
+data/
+logs/
+

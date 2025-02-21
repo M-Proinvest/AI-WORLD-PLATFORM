@@ -1,0 +1,11 @@
+
+torch
+transformers
+openai
+langchain
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+
